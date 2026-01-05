@@ -1,10 +1,10 @@
 ### Olá, meu nome é Ronaldo!
 
-- 📖 I’m currently enrolled in the software engineering course at FIAP
+- 📖 I’m enrolled in the software engineering course at FIAP
 - 🌱 I’m currently learning typescript and angular
 - 🤖 I have already finished an Artificial Intelligence technical course at FECAP
 - 🐍 My favorite programming language is currently python
-- 🌎 I am from Brazil and am comfortable speaking portuguese and english, I'm also currently learning french
+- 🌎 I am from Brazil and am comfortable speaking portuguese and english, I'm also learning french
 - 👋 Nice to meet you!
 
 <div style="display: inline-block"><br>
